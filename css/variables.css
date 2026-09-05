@@ -1,0 +1,17 @@
+:root {
+    --font-body: 'Plus Jakarta Sans', sans-serif;
+    --font-display: 'Space Grotesk', sans-serif;
+    --font-mono: 'JetBrains Mono', monospace;
+
+    --bg: #F8FAFC;
+    --card-bg: #FFFFFF;
+    --primary: #0F766E;
+    --primary-dark: #115E59;
+    --primary-light: #14B8A6;
+    --primary-border: #CCFBF1;
+    --primary-soft-bg: #F0FDFA;
+    --accent-glow: rgba(15, 118, 110, 0.22);
+    --text-heading: #134E4A;
+    --text-body: #1E293B;
+    --text-muted: #64748B;
+}
