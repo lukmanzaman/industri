@@ -44,11 +44,11 @@ function renderExhibits() {
                         <div class="exhibit-body">
                             <div>
                                 <div class="exhibit-meta-row">
-                                    <span class="exhibit-theme-badge">${themeTag}</span>
-                                    <span style="color: var(--primary); font-weight:700;">${f.code}${matchBadge}</span>
+                                    <span class="exhibit-theme-badge">${f.code}</span>
+                                    ${matchBadge}
                                 </div>
                                 <h2 class="exhibit-title" style="font-size:1.15rem; line-height:1.35; margin-bottom:0.35rem;">${escapeHtml(f.displayName)}</h2>
-                                ${f.subtitle ? `<p style="font-size:0.8rem; color:var(--text-muted); line-height:1.45; margin-bottom:0.75rem; opacity:0.85;">${escapeHtml(f.subtitle)}</p>` : ''}
+                                ${f.subtitle ? `<p style="font-size:0.82rem; color:var(--text-muted); line-height:1.5; margin-bottom:0.75rem; opacity:0.9;">${escapeHtml(f.subtitle)}</p>` : ''}
                             </div>
                             <div class="exhibit-footer" style="margin-top:auto;">
                                 <span style="font-family: var(--font-mono); font-size: 0.8rem; color: var(--text-muted); font-weight:600;">${subMeta}${allImgs.length} Visual</span>

@@ -7,7 +7,7 @@ const rawLibraryData = [
     "themeTitle": "Operations Research & Mathematical Programming",
     "themeShortTitle": "Riset Operasi & Optimisasi",
     "displayName": "OPERATIONS RESEARCH & MATHEMATICAL PROGRAMMING",
-    "subtitle": "Linear Programming Foundations • Integer, Binary & Mixed-Integer Programming • Network Optimization Models • Combinatorial Vehicle Routing (VRP) & Traveling Salesperson Problem (TSP) Exact/Heuristic Solvers • +2 Modul Lainnya",
+    "subtitle": "Fondasi matematis optimisasi sistem: formulasi kanonik simpleks George Dantzig, program bilangan bulat dan branch-and-bound, algoritma rute terpendek Dijkstra, hingga teori permainan kompetitif dan sains pengambilan keputusan multikriteria.",
     "submoduleCount": 6,
     "submodules": [
       {
@@ -1559,7 +1559,7 @@ const rawLibraryData = [
     "themeTitle": "Supply Chain Engineering & Freight Logistics",
     "themeShortTitle": "Supply Chain & Logistik",
     "displayName": "SUPPLY CHAIN ENGINEERING & FREIGHT LOGISTICS",
-    "subtitle": "Industrial Demand Forecasting • Deterministic Inventory Mechanics • Stochastic Inventory Control • Multi-Echelon Supply Chains & Bullwhip Effect • +2 Modul Lainnya",
+    "subtitle": "Rekayasa jaringan logistik global: peramalan deret waktu permintaan, mekanika model persediaan deterministik EOQ dan stok pengaman stokastik, penjinakan distorsi efek bullwhip, hingga arsitektur pergudangan otomatis ASRS.",
     "submoduleCount": 6,
     "submodules": [
       {
@@ -3111,7 +3111,7 @@ const rawLibraryData = [
     "themeTitle": "Production Planning, Scheduling & Factory Physics",
     "themeShortTitle": "PPIC & Penjadwalan",
     "displayName": "PRODUCTION PLANNING, SCHEDULING & FACTORY PHYSICS",
-    "subtitle": "Aggregate Production Planning, Master Production Scheduling and Rough-Cut Capacity • Material Requirements Planning, Manufacturing Resource Planning and BOM Explosions • Factory Physics and Flow Dynamics • Theory of Constraints • +2 Modul Lainnya",
+    "subtitle": "Mekanika aliran pabrik modern: perencanaan agregat MPS dan ledakan BOM MRP, dinamika hukum Little dan Kingman dalam Factory Physics, sinkronisasi Drum-Buffer-Rope TOC Goldratt, hingga heuristik penyeimbangan lini perakitan.",
     "submoduleCount": 6,
     "submodules": [
       {
@@ -4663,7 +4663,7 @@ const rawLibraryData = [
     "themeTitle": "Lean Manufacturing & Toyota Production System",
     "themeShortTitle": "Lean Manufacturing & TPS",
     "displayName": "LEAN MANUFACTURING & TOYOTA PRODUCTION SYSTEM",
-    "subtitle": "The Toyota Production System Architecture • Value Stream Mapping • Kanban Pull Systems • Single-Minute Exchange of Die • +2 Modul Lainnya",
+    "subtitle": "Filosofi eliminasi pemborosan: dua pilar Rumah TPS Just-in-Time dan otomasi cerdas Jidoka, pemetaan arus nilai VSM, sistem tarik kartu Kanban, reduksi waktu set-up cepat SMED Shigeo Shingo, hingga disiplin visual 5S.",
     "submoduleCount": 6,
     "submodules": [
       {
@@ -6215,7 +6215,7 @@ const rawLibraryData = [
     "themeTitle": "Quality Engineering & Statistical Process Control",
     "themeShortTitle": "Kualitas & Six Sigma",
     "displayName": "QUALITY ENGINEERING & STATISTICAL PROCESS CONTROL",
-    "subtitle": "Statistical Process Control (SPC) • Attribute Control Charts (p, np, c, u), CUSUM Charts & Exponentially Weighted Moving Average (EWMA) • Process Capability Analysis • Measurement System Analysis (MSA) • +2 Modul Lainnya",
+    "subtitle": "Kepastian mutu berbasis statistik: peta kendali variabel dan atribut Shewhart, analisis kapabilitas proses Cpk, evaluasi keandalan sistem ukur Gage R&R, lima fase metodologi Six Sigma DMAIC, hingga desain eksperimen faktorial Taguchi DOE.",
     "submoduleCount": 6,
     "submodules": [
       {
@@ -7767,7 +7767,7 @@ const rawLibraryData = [
     "themeTitle": "Work Design, Methods Engineering & Industrial Ergonomics",
     "themeShortTitle": "Ergonomi & Studi Gerak",
     "displayName": "WORK DESIGN, METHODS ENGINEERING & INDUSTRIAL ERGONOMICS",
-    "subtitle": "Time and Motion Study • Standard Time Formulation • Predetermined Motion Time Systems (PMTS) • Industrial Biomechanics & Manual Material Handling • +2 Modul Lainnya",
+    "subtitle": "Penyelarasan manusia dan stasiun kerja: 17 gerakan dasar Therblig Frank Gilbreth, pengukuran waktu baku stopwatch dan sistem PMTS, analisis gaya spinal batas angkat beban manual NIOSH, hingga penilaian risiko postur kerja RULA dan REBA.",
     "submoduleCount": 6,
     "submodules": [
       {
@@ -9319,7 +9319,7 @@ const rawLibraryData = [
     "themeTitle": "Facilities Planning, Plant Layout & Material Handling Systems",
     "themeShortTitle": "Tata Letak Pabrik & MHE",
     "displayName": "FACILITIES PLANNING, PLANT LAYOUT & MATERIAL HANDLING SYSTEMS",
-    "subtitle": "Systematic Layout Planning (SLP / Richard Muther) • Algorithmic & Heuristic Plant Layout • Cellular Manufacturing & Group Technology • Industrial Facility Location Models • +2 Modul Lainnya",
+    "subtitle": "Perancangan tata letak fasilitas optimal: metodologi relasional SLP Richard Muther, algoritma heuristik CRAFT, tata letak seluler Group Technology, penentuan lokasi fasilitas Weber, hingga armada konveyor dan kendaraan terpandu otomatis AGV.",
     "submoduleCount": 6,
     "submodules": [
       {
@@ -10871,7 +10871,7 @@ const rawLibraryData = [
     "themeTitle": "Engineering Economy & Industrial Cost Analysis",
     "themeShortTitle": "Ekonomi Teknik & Biaya",
     "displayName": "ENGINEERING ECONOMY & INDUSTRIAL COST ANALYSIS",
-    "subtitle": "Time Value of Money Mathematics • Capital Investment Evaluation • Equipment Replacement Analysis • Industrial Asset Depreciation • +2 Modul Lainnya",
+    "subtitle": "Evaluasi kelayakan kapital industri: konsep nilai waktu dari uang, kriteria kelayakan investasi NPV dan IRR, analisis siklus hidup penggantian mesin, depresiasi pajak MACRS, hingga kalkulasi biaya aktivitas berbasis ABC.",
     "submoduleCount": 6,
     "submodules": [
       {
@@ -12423,7 +12423,7 @@ const rawLibraryData = [
     "themeTitle": "Discrete-Event Simulation & Stochastic Systems",
     "themeShortTitle": "Simulasi Sistem Diskrit",
     "displayName": "DISCRETE-EVENT SIMULATION & STOCHASTIC SYSTEMS",
-    "subtitle": "Discrete-Event Simulation (DES) Architecture • Input Probability Modeling • Random Variate Generation • Simulation Output Analysis • +2 Modul Lainnya",
+    "subtitle": "Eksperimen dunia virtual sistem kompleks: arsitektur simulasi kejadian diskrit DES, pemodelan distribusi probabilitas masukan, generator bilangan acak, analisis rata-rata Welch, hingga pemodelan rantai antrean Kendall.",
     "submoduleCount": 6,
     "submodules": [
       {
@@ -13975,7 +13975,7 @@ const rawLibraryData = [
     "themeTitle": "Smart Manufacturing, Industry 4.0 & Cyber-Physical Systems",
     "themeShortTitle": "Smart Factory & IoT",
     "displayName": "SMART MANUFACTURING, INDUSTRY 4.0 & CYBER-PHYSICAL SYSTEMS",
-    "subtitle": "ISA-95 Enterprise-Control System Integration • Industrial Internet of Things (IIoT) & Edge Gateway Telemetry • Digital Twin Factory Architecture • Predictive Maintenance (PdM) Algorithms • +2 Modul Lainnya",
+    "subtitle": "Transformasi pabrik digital masa depan: arsitektur kontrol otomasi ISA-95 dan integrasi MES/MOM, telemetri gateway nirkabel IIoT dan MQTT, replika digital twin waktu-nyata, pemeliharaan prediktif PdM berbasis vibrasi, hingga robotika kolaboratif Cobot.",
     "submoduleCount": 6,
     "submodules": [
       {
